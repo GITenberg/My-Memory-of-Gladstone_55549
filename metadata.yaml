@@ -1,0 +1,23 @@
+_repo: My-Memory-of-Gladstone_55549
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Goldwin
+    birthdate: 1823
+    deathdate: 1910
+    gutenberg_agent_id: '2090'
+    url: http://www.gutenberg.org/2009/agents/2090
+    wikipedia: http://en.wikipedia.org/wiki/Goldwin_Smith
+description: ''
+gutenberg_issued: '2017-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: My Memory of Gladstone
+url: http://www.gutenberg.org/ebooks/55549
